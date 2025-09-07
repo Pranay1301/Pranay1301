@@ -35,10 +35,10 @@ I am skilled in the entire project lifecycle, from data acquisition and preproce
 
 ### 🏆 Certifications
 
-- [cite_start]**Applied Machine Learning in Python** - University of Michigan [cite: 36]
-- [cite_start]**Career Essentials in Generative AI** - Microsoft and LinkedIn [cite: 36]
-- [cite_start]**Hands-On PyTorch Machine Learning** - LinkedIn [cite: 37]
-- [cite_start]**Building Computer Vision Applications** - LinkedIn [cite: 38]
+- **Applied Machine Learning in Python** - University of Michigan 
+- **Career Essentials in Generative AI** - Microsoft and LinkedIn
+- **Hands-On PyTorch Machine Learning** - LinkedIn 
+- **Building Computer Vision Applications** - LinkedIn 
 
 
 ---
